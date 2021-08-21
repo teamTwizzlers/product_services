@@ -5,4 +5,19 @@ Thread Lightly is an e-commerce clothing retailer. The project consists of inher
 ## Achievements
  - Built ETL pipeline to seed MongoDB with over 22 milion records.
  - Improved retrieval speeds by over 80%
- -
+ - Worked with MongoDB embedded documents for fastest queries possible.
+
+## Technology
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- MongoDB Compass
+- AWS
+- Artillery
+- Docker
+
+
+## Usage
+Clone the repo and install dependencies
