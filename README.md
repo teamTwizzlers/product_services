@@ -21,3 +21,8 @@ Thread Lightly is an e-commerce clothing retailer. The project consists of inher
 
 ## Usage
 Clone the repo and install dependencies
+
+## Requirements 
+- Node 12 or above
+- npm
+- MongoDB
